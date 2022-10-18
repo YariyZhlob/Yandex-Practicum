@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T19:18:50.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="yVbhgM18UAA6UgoFfgDY" type="github"><diagram id="i3rPFqxi9VRxn4lQThNE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T19:45:08.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lAiXUaMtsPXgONilLYAP" version="20.4.1" type="github">
+  <diagram id="i3rPFqxi9VRxn4lQThNE" name="Страница 1">
+    <mxGraphModel dx="920" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OXUGKQB3-935wtRWINqi-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="140" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Пользователь получает сообщение &quot;Предзаказ отменен&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1030" width="182.62" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Предзаказ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="426.62" y="25" width="76" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.62" y="70" as="sourcePoint" />
+            <mxPoint x="462.62" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.68" y="140" width="369.88" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-29" value="Появление полей&amp;nbsp;&lt;span style=&quot;color: rgb(26, 27, 34); font-family: &amp;quot;YS Text&amp;quot;, Arial, Helvetica, sans-serif; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;«Электронный адрес» и «Номер телефона», а также кнопка «Отменить бронирование».&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="442.62" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-30" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Поля заполнены&amp;nbsp;&lt;br&gt;верно?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382.62" y="380" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="OXUGKQB3-935wtRWINqi-28" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="432.62" y="380" as="sourcePoint" />
+            <mxPoint x="462.62" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-32" value="Сообщение об ошибке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152.62" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="OXUGKQB3-935wtRWINqi-30" target="OXUGKQB3-935wtRWINqi-32" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312.62" y="590" as="sourcePoint" />
+            <mxPoint x="362.62" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="OXUGKQB3-935wtRWINqi-30" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392.62" y="460" as="sourcePoint" />
+            <mxPoint x="462.62" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-35" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Нет&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="297.62" y="415" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-36" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Да&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="457.62" y="525" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-37" value="&lt;span style=&quot;color: rgb(26, 27, 34); font-family: &amp;quot;YS Text&amp;quot;, Arial, Helvetica, sans-serif; font-size: 18px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;есть ли такой электронный адрес и номер телефона в базе данных?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="333.87" y="610" width="257.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="OXUGKQB3-935wtRWINqi-37" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472.62" y="530" as="sourcePoint" />
+            <mxPoint x="252.62" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-39" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="OXUGKQB3-935wtRWINqi-37" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322.62" y="890" as="sourcePoint" />
+            <mxPoint x="462.62" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-40" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Да&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="472.62" y="820" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Нет&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="272.62" y="680" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-42" value="Сообщение об ошибке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132.62" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-43" value="&lt;span style=&quot;color: rgb(26, 27, 34); font-family: &amp;quot;YS Text&amp;quot;, Arial, Helvetica, sans-serif; font-size: 18px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;сообщение об отмене предзаказа&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397.62" y="890" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-44" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462.12" y="960" as="sourcePoint" />
+            <mxPoint x="462.12" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412.62" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXUGKQB3-935wtRWINqi-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Предзаказ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="72.62" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
